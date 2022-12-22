@@ -26,7 +26,7 @@
     "express-session": "^1.17.2",
     "express-validator": "^6.12.2",
     "joi": "^17.4.2",
-    "jsonwebtoken": "^0.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mongodb-autoincrement": "^1.0.1",
     "mongoose": "^6.0.11",
     "mongoose-unique-validator": "^2.0.4",
